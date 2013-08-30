@@ -18,6 +18,6 @@ Screenshots
 =
 
 
-![ScreenShot](https://raw.github.com/HadiAsiaie/weka/blob/master/screenshots/weka.png)
+![ScreenShot](https://raw.github.com/HadiAsiaie/weka/master/screenshots/weka.png)
 
-![ScreenShot](https://raw.github.com/HadiAsiaie/weka/blob/master/screenshots/wekaSmaller.png)
+![ScreenShot](https://raw.github.com/HadiAsiaie/weka/master/screenshots/wekaSmaller.png)

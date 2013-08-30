@@ -1,7 +1,6 @@
 Modification to Weka.
 
-1) Combining bayes net and Feature selection algorithm as classifer 
-2) A new Feature selection algorithm based on Bayes net and Iterative Feature selection
+Combining bayes net and Feature selection algorithm as  a new classifer and new Feature selection algorithm.
 
 By combining them we can get better result in biological data.
 
